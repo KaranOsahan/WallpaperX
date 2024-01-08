@@ -1,4 +1,4 @@
-This is Android Wallpaper app which used Pexels API to fetch high quality wallpaper into RecyclerView and User can set the wallpaper in Phone User can search for Different types of wallpaper and can find trending one also
+This is Android Wallpaper app which used Pexels API to fetch high quality wallpaper into RecyclerView and User can set the wallpaper in Phone Or Can Download It. User can search for Different types of wallpaper and can find trending one also
 
 ![ss1](https://github.com/KaranOsahan/WallpaperX/assets/155386663/46ad1693-49dd-43ad-9e51-0b1541d50a12)
 
